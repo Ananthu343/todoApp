@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import '../App.css';
 
 
-const Title = (props) => {
+const Title = () => {
    
   return (
     <Fragment>
